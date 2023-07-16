@@ -19,7 +19,9 @@ Instructions for recipients:
 2. Open a terminal or command prompt and navigate to the unpacked project directory.
 3. Build and run the Docker containers using the following command:
 Copy code
+
+
 docker-compose up
-docker-compose up
+
 
 Once the containers are running, recipients can access the application in their browser at http://localhost:3000.
