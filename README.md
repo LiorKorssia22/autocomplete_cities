@@ -25,3 +25,8 @@ docker-compose up
 
 
 Once the containers are running, recipients can access the application in their browser at http://localhost:3000.
+
+
+https://github.com/LiorKorssia22/autocomplete_cities/assets/104680899/710959eb-3fe0-4a68-b6c7-c86a67574c3a
+
+
